@@ -610,7 +610,7 @@ const UITX = {
     decks:{
       q:{name:"The Questions",sub:"Draw a card, spark a conversation"},
       s:{name:"On Stage",sub:"Roleplay scenes & starter scripts"},
-      g:{name:"The Games",sub:"101 classic party games"}
+      g:{name:"The Games",sub:"Classic party games"}
     },
     countQ:c=>c+" cards",
     countS:"85 scenes · 16 scripts",
@@ -646,7 +646,7 @@ const UITX = {
     decks:{
       q:{name:"الأسئلة",sub:"اسحب بطاقة، وافتح حديثاً"},
       s:{name:"على الخشبة",sub:"مشاهد تمثيل ونصوص بداية"},
-      g:{name:"الألعاب",sub:"101 لعبة تسلية كلاسيكية"}
+      g:{name:"الألعاب",sub:"ألعاب تسلية كلاسيكية"}
     },
     countQ:c=>c+" بطاقة",
     countS:"85 مشهداً · 16 نصاً",
@@ -738,11 +738,9 @@ function renderHome(){
 function deckCard(k,cls,emoji,info,count){
   return `<button class="deck ${cls}" data-k="${k}">
     <span class="stack"><i></i><i></i></span>
-    <span class="go">→</span>
     <span class="emoji">${emoji}</span>
     <h3>${info.name}</h3>
     <span class="sub">${info.sub}</span>
-    <span class="count">${count}</span>
   </button>`;
 }
 
