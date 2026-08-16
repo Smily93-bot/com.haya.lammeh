@@ -803,10 +803,10 @@ function renderQDeck(){
     const showA=hasBoth?((qShow2)?primary:alt):'';
     const showADir=(qShow2)?primDir:altDir;
     card.classList.remove('turn');void card.offsetWidth;card.classList.add('turn');
-    card.innerHTML=`<div class="qnum">${LANG==='ar'?c.labelAr:c.labelEn} · ${qIdx+1}</div>
+    card.innerHTML=`<div class="qnum">${LANG==='ar'?c.labelAr:c.labelEn}</div>
       <div class="qtxt" dir="${showPDir}">${showP}</div>
       ${hasBoth?`<div class="qalt" dir="${showADir}">${showA}</div>`:''}`;
-    w.querySelector('#qprog').textContent=t.ofN(qIdx+1,c.items.length);
+    w.querySelector('#qprog').textContent='';
     w.querySelector('#qprev').disabled=qIdx===0;
   };
   card.onclick=()=>{qShow2=!qShow2;draw();};
