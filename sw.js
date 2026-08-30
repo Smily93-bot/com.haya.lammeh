@@ -1,4 +1,4 @@
-const CACHE = "lammeh-pages-v1";
+const CACHE = "lammeh-pages-v2";
 const BASE = new URL("./", self.location.href).pathname;
 const CORE = [BASE, `${BASE}manifest.webmanifest`, `${BASE}icon-192.png`];
 self.addEventListener("install", (event) => {
