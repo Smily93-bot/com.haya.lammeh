@@ -1,0 +1,59 @@
+PRIVACY POLICY — لمّة · Lammeh
+Last updated: 15 August 2026
+
+THE SHORT VERSION
+Lammeh does not collect, store, or share any personal information. There are
+no accounts, no tracking, and no ads. Everything happens on your own device.
+
+1. INFORMATION WE COLLECT
+None. Lammeh is a self-contained app of question cards, roleplay scenes, and
+party games. It does not ask for your name, email, contacts, location, photos,
+or any other personal data, and it has no login or user accounts.
+
+2. HOW YOUR DATA IS USED
+Because we collect no data, we do not use, analyze, sell, or share any personal
+data with anyone. Your language choice and how you play stay on your device.
+
+3. THIRD PARTIES
+The app is served as a static website (for example via GitHub Pages) and loads
+fonts from Google Fonts so text displays correctly. These providers may record
+standard technical request logs (such as an IP address) as part of delivering
+the page, according to their own policies. Lammeh itself does not place
+advertising or analytics trackers.
+
+4. CHILDREN
+Lammeh is designed to be family-friendly and contains no adult content. Since
+no personal information is collected from anyone, none is collected from
+children.
+
+5. CHANGES TO THIS POLICY
+If this policy ever changes, the updated version will be posted with a new date.
+
+6. CONTACT
+Questions about this policy? Contact us at: YOUR-EMAIL@example.com
+
+---
+
+سياسة الخصوصية — لمّة · Lammeh
+آخر تحديث: ١٥ آب ٢٠٢٦
+
+باختصار: تطبيق «لمّة» لا يجمع أو يخزّن أو يشارك أي معلومات شخصية. لا حسابات،
+ولا تتبّع، ولا إعلانات. كل شيء يحدث على جهازك وحده.
+
+١. المعلومات التي نجمعها: لا شيء. «لمّة» تطبيق مستقلّ من بطاقات أسئلة ومشاهد
+وألعاب، لا يطلب اسمك أو بريدك أو جهات اتصالك أو موقعك أو صورك أو أي بيانات
+شخصية، ولا يحتوي على تسجيل دخول أو حسابات.
+
+٢. كيف تُستخدم بياناتك: بما أننا لا نجمع أي بيانات، فلا نستخدمها أو نحلّلها أو
+نبيعها أو نشاركها مع أي جهة.
+
+٣. الأطراف الأخرى: يُقدَّم التطبيق كموقع ثابت (مثل GitHub Pages) ويحمّل الخطوط من
+Google Fonts. قد يسجّل هؤلاء المزوّدون بيانات تقنية معتادة (مثل عنوان IP) وفق
+سياساتهم. أما «لمّة» فلا تضع إعلانات أو أدوات تتبّع.
+
+٤. الأطفال: التطبيق مناسب للعائلة وخالٍ من المحتوى غير اللائق، ولا يجمع أي
+معلومات من أي شخص بمن فيهم الأطفال.
+
+٥. تعديلات السياسة: يُنشر أي تحديث على الصفحة نفسها مع تاريخ جديد.
+
+٦. التواصل: للاستفسار، راسلنا على البريد أعلاه.
