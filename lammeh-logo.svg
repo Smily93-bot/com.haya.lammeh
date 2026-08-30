@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="شعار لمّة">
+  <g transform="translate(26 18)">
+    <rect x="18" y="10" width="92" height="126" rx="22" fill="#6c4a6e" transform="rotate(-9 64 73)"/>
+    <rect x="40" y="13" width="92" height="126" rx="22" fill="#c4703b" transform="rotate(8 86 76)"/>
+    <circle cx="90" cy="70" r="13" fill="#fffaf4"/>
+    <path d="M75 101c9-10 22-10 31 0" fill="none" stroke="#fffaf4" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>
