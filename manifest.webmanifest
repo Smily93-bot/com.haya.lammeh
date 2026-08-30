@@ -1,18 +1,17 @@
 {
-  "name": "لمّة · Lammeh",
-  "short_name": "لمّة",
-  "description": "Question cards, On Stage scenes, and classic party games — bilingual Arabic & English.",
-  "lang": "ar",
-  "dir": "auto",
-  "start_url": ".",
-  "scope": ".",
+  "name": "لَمّة — Lammeh",
+  "short_name": "لَمّة",
+  "description": "أسئلة ونقاشات وألعاب وأنشطة عائلية للّمة.",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#FBF5F1",
-  "theme_color": "#512B47",
+  "background_color": "#fffdf9",
+  "theme_color": "#6c4a6e",
+  "orientation": "portrait-primary",
+  "lang": "ar",
+  "dir": "rtl",
   "icons": [
-    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ]
 }
